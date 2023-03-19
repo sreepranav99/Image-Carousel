@@ -1,0 +1,68 @@
+
+.Main{
+    width: 100%;
+    height: 100%;
+    background-color: #f5a442;
+    padding-top: 50px;
+    
+}
+.image_carousel{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
+}
+.count{
+
+   font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    color: #4278f5;
+    padding: 0;
+    
+
+}
+.traverse{
+    min-width: 50px;
+}
+img{
+
+    padding-top: 70px;
+    width: 100%;
+    height:100%;
+    
+}
+
+.left-arrow
+{
+    margin-top: 50px;
+    margin-right: 10px;
+    font-size: 20px;
+    color: white;
+    background: #088DA5;
+    border-radius: 999px;
+    padding: 1px 2px;
+    cursor: pointer;
+ 
+}
+.right-arrow
+{
+    
+    margin-top: 50px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+  background: #088DA5;
+  border-radius: 999px;
+  padding: 1px 2px;
+  cursor: pointer;
+ 
+}
+
